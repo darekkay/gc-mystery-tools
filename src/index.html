@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/3.0.3/normalize.min.css"/>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.css">
+  <link rel="stylesheet" href="style.css">
+  <title>GC Mystery Tools</title>
+</head>
+
+<body>
+
+<div id="header">
+  <div id="searchform" class="header-component">
+    <div class="search-icon">
+      <i class="fa fa-times"></i>
+      <i class="fa fa-keyboard-o"></i>
+    </div>
+    <input id="input" type="text" placeholder="Type text or numbers..." onkeydown="clearOnEscape(event, this)"/>
+  </div>
+  <span id="logo">GC Mystery Tools</span>
+</div>
+
+<div id="content">
+  <div class="scrollable-y">
+
+    <table id="output-numbers"></table>
+    <table id="output-characters"></table>
+  </div>
+</div>
+
+<div id="footer">
+  <div class="float-left">
+    <a href="http://eclectide.com" target="_blank" class="animated">Handmade with &hearts; by Eclectide</a>
+  </div>
+  <div class="float-right">
+    <span class="float-left">
+      <a href="https://github.com/darekkay/gc-mystery-tools" target="_blank" class="animated">Fork me on GitHub</a>
+    </span>
+    <i class="fa fa-2x fa-github"></i>
+  </div>
+</div>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js" type="text/javascript"></script>
+<script src="geocaching.js" type="text/javascript"></script>
+</body>
+</html>
