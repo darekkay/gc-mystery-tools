@@ -2,7 +2,8 @@
 
 A collection of utility functions used to solve common mystery geocaches.
 
-[Live demo](https://eclectide.com/geocaching/)
+ * [Live demo](https://eclectide.com/geocaching/)
+ * [Blog post](http://eclectide.com/blog/2015/10/18/puzzle-solving-tool-for-geocaching/)
 
 ![Screenshot](screenshot.png)
 
