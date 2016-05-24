@@ -52,6 +52,8 @@ function updateNumbersTable(inputValue) {
   appendNumberHeading('Miscellaneous');
   appendNumberRow('ASCII', numbers, numberToAscii);
   appendNumberRow('Alphabet (A = 1)', numbers, numberToLetter);
+  appendNumberRow('QS', numbers, digitSum);
+  appendNumberRow('IQS', numbers, digitalRoot);
 
   addNumberCalculationColumns();
 
