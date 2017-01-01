@@ -10,6 +10,6 @@ A collection of utility functions used to solve common mystery geocaches.
 
 ## License
 
-Copyright 2015 Darek Kay <darekkay@gmail.com>  
+Copyright 2015 Darek Kay <hello@darekkay.com>  
 
 This project and its contents are open source under the [MIT license](LICENSE.txt).
