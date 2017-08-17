@@ -3,7 +3,7 @@
 A collection of utility functions used to solve common mystery geocaches.
 
  * [Live demo](https://darekkay.com/geocaching/)
- * [Blog post](https://darekkay.com/2015/10/18/puzzle-solving-tool-for-geocaching/)
+ * [Blog post](https://darekkay.com/blog/puzzle-solving-tool-for-geocaching/)
 
 ![Screenshot](screenshot.png)
 
